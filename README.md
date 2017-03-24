@@ -1,6 +1,6 @@
 # **MAC0214**
-## **Luis Gustavo Bitencourt Almeida** - _9298207_
-#### Março/2017
+## **Luis Gustavo Bitencourt Almeida** - 9298207
+
 ## Objetivos
 Treinar para as competições regionais e quem sabe nacionais da ACM-ICPC 2017/2018 e em paralelo aumentar de rating no Codeforces.
 
