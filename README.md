@@ -16,7 +16,7 @@ Duas sessões e treinos de 5 horas (quintas e sextas, no CEC) e uma com 3 horas 
 É esperado que isso seja cumprido em pelo menos dez semanas no semestre, o que resulta em **130h** de treinos.
 
 ## Acompanhamento
-Os códigos implementados por mim dos problemas estarão no meu blog da matéria - [lgbitencourt.github.io/MAC0214](lgbitencourt.github.io/MAC0214) - junto com um contador de horas. Eventualmente farei posts comentando problemas interessantes mas não será uma regra. A página será atualizada aos sábados de toda semana com os problemas passados e tempo gasto.
+Os códigos implementados por mim dos problemas estarão no meu blog da matéria - lgbitencourt.github.io/MAC0214 - junto com um contador de horas. Eventualmente farei posts comentando problemas interessantes mas não será uma regra. A página será atualizada aos sábados de toda semana com os problemas passados e tempo gasto.
 
 ## Supervisor
 O meu supervisor será o coach da maratona Renzo Gonzalo Gomez Diaz.
