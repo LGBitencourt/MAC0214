@@ -2,10 +2,10 @@
 ## **Luis Gustavo Bitencourt Almeida** - 9298207
 
 ## Objetivos
-Treinar para as competições regionais e quem sabe nacionais da ACM-ICPC 2017/2018 e em paralelo aumentar de rating no Codeforces.
+Treinar para as competições regionais e quem sabe nacionais da ACM-ICPC 2017/2018. Em paralelo aumentar de rating no Codeforces.
 
 ## Tarefas
-Duas sessões e treinos de 5 horas (quintas e sextas, no CEC) e uma com 3 horas (sábados) por semana. O treinos podem ser uma mescla de resolução de problemas e aulas para integrantes do MaratonIME.
+Duas sessões de treinos de 5 horas (quintas e sextas, no CEC) e uma com 3 horas (sábados) por semana. O treinos podem ser uma mescla de resolução de problemas e aulas para integrantes do MaratonIME. Também participarei de rounds do Codeforces.
 
 ### Distribuição dos treinos
 * Treinos indivuduais - 1 de **5h** e outro de **3h** por semana
