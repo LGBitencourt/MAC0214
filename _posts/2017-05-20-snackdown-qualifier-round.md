@@ -6,4 +6,5 @@ problems: 2
 categories: snackdown
 ---
 
+- [https://www.codechef.com/SNCKQL17/problems/TEMPLELA](https://www.codechef.com/SNCKQL17/problems/SNAKPROC)[(solução)](https://github.com/LGBitencourt/Competitive-Programming/blob/master/codechef/templela.cpp)
 - [https://www.codechef.com/SNCKQL17/problems/SNAKPROC](https://www.codechef.com/SNCKQL17/problems/SNAKPROC)[(solução)](https://github.com/LGBitencourt/Competitive-Programming/blob/master/codechef/snakproc.cpp)
