@@ -3,7 +3,7 @@ layout: post
 title: Organização do contest dos bixos
 hours: 5
 problems: 2
-categories: organização
+categories: organizacao
 ---
 
 Fiz um problema do contest e revisei outro
