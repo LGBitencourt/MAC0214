@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Brasil Collegiate Cup 2017 Finals"
-hours: 1
-problems: 2
+hours: 4
+problems: 3
 categories: collegiate-cup
 ---
 
