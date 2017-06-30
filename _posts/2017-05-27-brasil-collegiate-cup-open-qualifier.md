@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brasil Collegiate Cup 2017 Open Qualifier"
-hours: 1
+hours: 3
 problems: 2
 categories: collegiate-cup
 ---

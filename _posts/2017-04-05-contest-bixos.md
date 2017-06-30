@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Organização do contest dos bixos
-hours: 5
+hours: 6
 problems: 2
 categories: organizacao
 ---

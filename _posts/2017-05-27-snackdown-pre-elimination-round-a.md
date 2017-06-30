@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SnackDown Online Pre-elimination round A"
-hours: 1
+hours: 3
 problems: 1
 categories: snackdown
 ---
